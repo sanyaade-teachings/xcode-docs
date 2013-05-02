@@ -11,7 +11,7 @@ To install this doc set in the Xcode Organizer, do the following:
 
   The "Enter a doc set feed URL" sheet appears.
   
-6. Enter, "URL" and click Add.
+6. Enter, "http://leapmotion.github.com/xcode-docs/publish/com.leapmotion.Leap-Motion-API.atom" and click Add.
 
   The "Leap Motion API Documentation" entry appears in the list.
   
