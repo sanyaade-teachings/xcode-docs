@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:docset="http://developer.apple.com/rss/docset_extensions" xml:lang="en">
     <id>http://leapmotion.github.com/xcode-docs/publish/com.leapmotion.cplusplus.xar/20130502153715</id>
     <title type="text">Leap Motion C++ API</title>
-    <link rel="self" href="http://leapmotion.github.com/xcode-docs/publish/com.leapmotion.cplusplus.xar"></link>
+    <link rel="self" href="http://leapmotion.github.com/xcode-docs/publish/com.leapmotion.cplusplus.atom"></link>
     <docset:publisherName>Leap Motion</docset:publisherName>
     <docset:publisherID>com.leapmotion</docset:publisherID>
     <updated>2013-05-02T15:37:15-07:00</updated>
